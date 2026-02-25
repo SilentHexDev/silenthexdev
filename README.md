@@ -22,8 +22,3 @@ Founder of Silent Hex • Software Engineer • Frontend & Mobile Developer
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silenthexdev&show_icons=true&theme=dark" />
-</p>
