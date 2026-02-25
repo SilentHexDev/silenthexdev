@@ -20,7 +20,6 @@ Founder of Silent Hex • Software Engineer • Frontend & Mobile Developer
 
 ## ⚙️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,kali,swift,py,php,linkedin,js,github,firebase,discord,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,py,cpp,cs,swift,mysql,git,github,vscode,azure,gcp,androidstudio,firebase,docker,linux" />
 </p>
-
 ---
