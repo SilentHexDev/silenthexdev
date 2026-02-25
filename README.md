@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="A01.jpg" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Abdullah M Al-Shahrani</h1>
 
