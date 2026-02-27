@@ -1,7 +1,9 @@
 <p align="center">
   <img src="A02.jpg" width="100%" />
 </p>
-
+<div align="center">
+<img src="./assets/mario.gif" align="center" style="width: 1000px" />
+</div>
 <h1 align="center">Hi 👋, I'm Abdullah M Al-Shahrani</h1>
 
 <p align="center">
